@@ -1,21 +1,25 @@
 # About Me
 
-I am a web programmer with hands-on experience in developing and maintaining web-based applications, primarily using PHP and the CodeIgniter framework.  
-My work focuses on building clean, maintainable, and secure backend systems that support real business processes.
+I am a web programmer with experience in developing web-based applications, working across both backend and frontend layers.  
+My primary focus is backend development using PHP and CodeIgniter, while also being actively involved in building responsive and interactive user interfaces on the frontend.
 
-I am accustomed to working with structured codebases, relational databases, and collaborative development workflows.
+I am accustomed to working with structured codebases, relational databases, and modern frontend practices to deliver maintainable and scalable web applications.
 
 ---
 
 ## 🧩 Technical Expertise
   
+### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
