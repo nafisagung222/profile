@@ -8,7 +8,7 @@ I am accustomed to working with structured codebases, relational databases, and 
 ---
 
 ### Portfolio-Website
-Portfolio website built using PHP (CodeIgniter), MySQL, JavaScript, and jQuery.
+Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
 [Visit Now 🚀](#)
 
