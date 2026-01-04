@@ -7,7 +7,7 @@ I am accustomed to working with structured codebases, relational databases, and 
 
 ---
 
-## 🧩 Technical Expertise
+## Technical Expertise
   
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -42,7 +42,7 @@ I am accustomed to working with structured codebases, relational databases, and 
 
 ---
 
-## 🏗️ Development Approach
+## Development Approach
 - Separation of concerns using MVC pattern
 - Writing readable and maintainable code
 - Consistent naming conventions
@@ -51,7 +51,7 @@ I am accustomed to working with structured codebases, relational databases, and 
 
 ---
 
-## 🎯 Professional Focus
+## Professional Focus
 - Backend Web Development
 - Business & Internal Application Systems
 - API Development & Integration
@@ -59,6 +59,6 @@ I am accustomed to working with structured codebases, relational databases, and 
 
 ---
 
-## 📫 Contact
+## Contact
 - GitHub: https://github.com/nafisagung222
 - Email: nafisagung222@gmail.com
