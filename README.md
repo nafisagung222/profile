@@ -1,7 +1,9 @@
 # Hi 👋 I'm a Web Programmer
 
-I am a web programmer with experience in building web-based applications using PHP and CodeIgniter framework.  
-I focus on developing structured, maintainable, and secure systems for business and internal applications.
+I am a web programmer with hands-on experience in developing and maintaining web-based applications, primarily using PHP and the CodeIgniter framework.  
+My work focuses on building clean, maintainable, and secure backend systems that support real business processes.
+
+I am accustomed to working with structured codebases, relational databases, and collaborative development workflows.
 
 ---
 
