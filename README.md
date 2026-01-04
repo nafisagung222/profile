@@ -9,8 +9,6 @@ I am accustomed to working with structured codebases, relational databases, and 
 
 ## 🧩 Technical Expertise
 
-## 🧷 Tech Stack
-
 **Backend**
   
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
